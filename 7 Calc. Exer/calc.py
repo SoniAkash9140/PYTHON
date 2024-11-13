@@ -1,8 +1,7 @@
 NUM1=float(input("Enter the first number here:"))
 NUM2=float(input("Enter the second number here:"))
 
-print(
-    "Enter 1 for addition \n Enter 2 for substraction / enter 3 for multiplication /n enter 4 for division")
+print("Enter 1 for addition \n Enter 2 for substraction / enter 3 for multiplication /n enter 4 for division")
 
 Entered_number=int(input("choice a numbr from 1 to 4\n"))
 
